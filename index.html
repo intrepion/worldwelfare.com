@@ -9,9 +9,12 @@
 <!-- Create an element where the map will take place -->
 <svg id="my_dataviz" width="800" height="600"></svg>
 
-<p>Country: <span id="country-name-span"></span></h2>
+<p>Country: <span id="country-name-span"></span></p>
 
 <p>Population: <span id="country-population-span"></span></p>
+
+<input id="country-name-hidden" type="hidden" />
+<input id="country-population-hidden" type="hidden" />
 
 <script>
 
@@ -50,13 +53,13 @@
           .transition()
           .duration(200)
           .style("opacity", 1)
-        const countryNameSpan = document.querySelector('#country-name-span')
+        const countryNameSpan = document.getElementById('country-name-span')
         countryNameSpan.innerHTML = d.properties.name;
-        const countryPopulationSpan = document.querySelector('#country-population-span')
+        const countryPopulationSpan = document.getElementById('country-population-span')
         countryPopulationSpan.innerHTML = d.total.toLocaleString();
     }
     
-      let mouseLeave = function(d) {
+      let mouseLeave = function(event, d) {
         d3.selectAll(".Country")
           .transition()
           .duration(200)
@@ -64,6 +67,19 @@
         d3.select(this)
           .transition()
           .duration(200)
+        const countryNameSpan = document.getElementById('country-name-span')
+        const countryNameHidden = document.getElementById('country-name-hidden')
+        countryNameSpan.innerHTML = countryNameHidden.value;
+        const countryPopulationSpan = document.getElementById('country-population-span')
+        const countryPopulationHidden = document.getElementById('country-population-hidden')
+        countryPopulationSpan.innerHTML = countryPopulationHidden.value;
+        }
+
+      let click = function(event, d) {
+        const countryNameHidden = document.getElementById('country-name-hidden')
+        countryNameHidden.value = d.properties.name;
+        const countryPopulationHidden = document.getElementById('country-population-hidden')
+        countryPopulationHidden.value = d.total.toLocaleString();
       }
     
       // Draw the map
@@ -86,6 +102,7 @@
           .style("opacity", .8)
           .on("mouseover", mouseOver )
           .on("mouseleave", mouseLeave )
+          .on("click", click )
     
     })
     
