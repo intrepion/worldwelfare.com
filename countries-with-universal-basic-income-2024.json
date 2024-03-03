@@ -1,0 +1,233 @@
+[
+  {
+    "country": "India",
+    "countriesWithUniversalBasicIncome_startDate": "2011-06",
+    "countriesWithUniversalBasicIncome_endDate": "2012-11",
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Trials lasting 12 and 18 months tested effect of a UBI program amounting to 20-30% of a normal low income on a total of 6,000 people. Findings showed decrease in illness, improved school attendance and financial stability, and higher employment, with no corresponding increase in alcohol consumption."
+  },
+  {
+    "country": "China",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "United States",
+    "countriesWithUniversalBasicIncome_startDate": "multiple",
+    "countriesWithUniversalBasicIncome_endDate": "multiple",
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Several pilot programs have been conducted or are in process. One notable pilot program is the Alaska Permanent Fund, which has given residents $1,000-2,000 per year since 1982, funded by the state's oil and gas revenues."
+  },
+  {
+    "country": "Brazil",
+    "countriesWithUniversalBasicIncome_startDate": 2004,
+    "countriesWithUniversalBasicIncome_endDate": "ongoing",
+    "countriesWithUniversalBasicIncome_type": "Welfare and pilot",
+    "countriesWithUniversalBasicIncome_details": "Bolsa Família is a welfare program passed in 2004 and implemented in stages, which gives roughly 26% of the population a monthly payment equivalent to just under 1/5 of minimum wage. Surveys indicate the money is spent on (in order of importance) food, school supplies, clothing, and shoes. A second, privately funded pilot project began in Quatinga Velho in 2008. It gives a very small stipend (roughly 5% of minimum salary), and has been cited as improving nutrition, living conditions, housing, and health, especially in children. Finally, the town Santo Antônio do Pinhal uses a legitimate UBI program that splits 6% of city tax revenue among all residents who have lived there for at least 5 years."
+  },
+  {
+    "country": "Japan",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Iran",
+    "countriesWithUniversalBasicIncome_startDate": 2010,
+    "countriesWithUniversalBasicIncome_endDate": 2016,
+    "countriesWithUniversalBasicIncome_type": "Full",
+    "countriesWithUniversalBasicIncome_details": "\"Under \"subsidy reform plan"
+  },
+  {
+    "country": "Germany",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "United Kingdom",
+    "countriesWithUniversalBasicIncome_startDate": 2022,
+    "countriesWithUniversalBasicIncome_endDate": 2025,
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Pilot program in Wales (U.K.) will give young people over the age of 18 £1,600 ($2,175 USD) per month for up to two years, then compare their financial, physical, and emotional health to those who do not receive the stipend."
+  },
+  {
+    "country": "France",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "South Africa",
+    "countriesWithUniversalBasicIncome_startDate": "2020-05",
+    "countriesWithUniversalBasicIncome_endDate": "2020-10",
+    "countriesWithUniversalBasicIncome_type": "COVID-19 relief",
+    "countriesWithUniversalBasicIncome_details": "Issued small grants to citizens of working age who had no other governmental support."
+  },
+  {
+    "country": "Kenya",
+    "countriesWithUniversalBasicIncome_startDate": 2018,
+    "countriesWithUniversalBasicIncome_endDate": "ongoing",
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Test program gives monthly grants of approx. 1/4-1/2 average income. Scheduled to run until 2030."
+  },
+  {
+    "country": "South Korea",
+    "countriesWithUniversalBasicIncome_startDate": 2016,
+    "countriesWithUniversalBasicIncome_endDate": "ongoing",
+    "countriesWithUniversalBasicIncome_type": "Partial",
+    "countriesWithUniversalBasicIncome_details": "Issues quarterly \"allowance\" to citizens of Gyeonggi province aged 24 or older; can only be used in local businesses."
+  },
+  {
+    "country": "Spain",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Canada",
+    "countriesWithUniversalBasicIncome_startDate": "2017-10",
+    "countriesWithUniversalBasicIncome_endDate": "2019-03",
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "An early pilot program that ran from 1974-1978 showed increased school attendance, decreased hospitalizations, and no change in unemployment rates.  Amore recent 2017 test program provided roughly 4,000 people with monthly stipend equivalent to roughly $17,000 CAD (about $13,000 USD) for singles and $24,000 CAN for couples. Program was planned to run three years, but was ended early following the post-election transfer of governmental power from one political party to another. No results have been released."
+  },
+  {
+    "country": "Ukraine",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Australia",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Netherlands",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Belgium",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Czech Republic",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Greece",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Portugal",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Hungary",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Switzerland",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Bulgaria",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Finland",
+    "countriesWithUniversalBasicIncome_startDate": 2016,
+    "countriesWithUniversalBasicIncome_endDate": 2018,
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Trial program gave 2,000 unemployed adults a monthly grant. Parliament declined to fund it past 2018."
+  },
+  {
+    "country": "Norway",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "New Zealand",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Ireland",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Lithuania",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Namibia",
+    "countriesWithUniversalBasicIncome_startDate": "2008-01",
+    "countriesWithUniversalBasicIncome_endDate": "2009-12",
+    "countriesWithUniversalBasicIncome_type": "Pilot",
+    "countriesWithUniversalBasicIncome_details": "Pilot program in two villages paid roughly 8% of average income. Significantly reduced child malnutrition, increased school attendance, boosted community income, decreased theft."
+  },
+  {
+    "country": "Latvia",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Estonia",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  },
+  {
+    "country": "Iceland",
+    "countriesWithUniversalBasicIncome_startDate": "none",
+    "countriesWithUniversalBasicIncome_endDate": "none",
+    "countriesWithUniversalBasicIncome_type": "Discussed",
+    "countriesWithUniversalBasicIncome_details": "Considered, but not yet implemented as of 2022."
+  }
+]

@@ -1,0 +1,1307 @@
+[
+  {
+    "country": "Brazil",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Municipal Government of Maricá",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "42,000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Brazil",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Instituto ReCivitas",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Canada",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of Ontario Ministry of Children, Community and Social Services",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "6500",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Annual",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Canada",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Province of Manitoba",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "2263",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Canada",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of BC",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "Any individual transitioning out of care\r\n",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Finland",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Kela and Ministry of Health and Social Affairs",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "2000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "Germany",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Mein Grundeinkommen e.V.",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1464",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private, Raffle",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Hong Kong",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of Hong Kong",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "~4 million",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Lump sum",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "India",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UNICEF and the Self Employed Women’s Association (SEWA)",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "5,547 in general village pilot of 20 villages and 756 in tribal village pilot",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly\r\n",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "India",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yolo County",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "54",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Annua",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "India",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Tamil Nadu State Government",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "Expected up to 10,000,000 women",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Indonesia",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yanu Endar Prasetyo (IndoBIG Network & Research Center for Population BRIN)",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "25",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Iran",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Islamic Republic of Iran",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "~ 75 million",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Italy",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Livorno",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Japan",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yusaku Maezawa",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "500 Lump sum recepients, 500 monthly payment recepients",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Kenya",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Give Directly",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "503",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly or lump sum",
+    "UniversalBasicIncomePaymentDuration_Months": "16"
+  },
+  {
+    "country": "Kenya",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Give Directly",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20,847",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly or lump sum",
+    "UniversalBasicIncomePaymentDuration_Months": "24 or 144"
+  },
+  {
+    "country": "Liberia",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Give Directly",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "10,987",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Mix of monthly and quarterly payments\r\n",
+    "UniversalBasicIncomePaymentDuration_Months": "54"
+  },
+  {
+    "country": "Macau",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of Macau",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "638,300 permanent residents and 62,000 non-permanent residents",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Yearly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Mongolia",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of Mongolia",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "~2.7 million",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Mix of monthly and lump sum",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Namibia",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Namibian Big Coalition (Council of Churches, Namibian Union of Namibian Workers, Namibian NGO Forum and the Namibian Network of AIDS Service Organisations)",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "930",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Netherlands",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Utrecht",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "752",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Sierra Leone\r\n",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Social Income",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "146",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "36"
+  },
+  {
+    "country": "Spain",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Barcelona",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "Togo",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Government of Togo\r\n",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "819,972",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "Uganda",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Ghent University",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "123 adults and 217 children",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United Kingdom",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Welsh Government",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "Expected 500 young people are eligible",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Mckinleyville Family Resource Center, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "22"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "iFoster, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "27"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "First 5 Sonoma County, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "305",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Marin Community Foundation, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "125",
+    "UniversalBasicIncomeExperimentTypeOfFunding": null,
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Health and Human Services Agency (HHSA), CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "54 families",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yolo County, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "54",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Annual\r\n",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "United Way California Capital Region, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "United Way California Capital Region, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "130",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Reinvent Stockton Foundation, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "125",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Concluded",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "My Path, Excite Credit Union, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "72",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Mountain View, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "166",
+    "UniversalBasicIncomeExperimentTypeOfFunding": null,
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Open Research Lab (formerly Y Combinator Research), CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "36"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Expecting Justice, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "950",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "27"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Monument Impact, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "120",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "11"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "NYU Furman Center, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "450",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Comment Studio, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "30",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "6"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, City of Oakland, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "600 (2 cohorts)",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Miracle Messages, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Alameda, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "MyPath and University of California San Francisco, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "31"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yerba Buena Center for the Arts, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "130",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Tipping Point Community, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Compass Family Services and Wells Fargo Foundation, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "13",
+    "UniversalBasicIncomeExperimentTypeOfFunding": null,
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "6"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of South San Francisco, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "160",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public ",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Mission Asset Fund (MAF), San Mateo County Government, CA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "500",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "San Francisco Human Services Agency, CA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Santa Fe, NM",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "New Mexico Appleseed, NM",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "53",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "8"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogethe, NM",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "330",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Community Action Agency, Families and Youth Innovations Plus, Jardin de Los Ninos, NM",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, TX",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "30",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, TX",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "500",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, TX",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Quarterly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Austin (including Austin Public Health, the Homeless Strategy Office, the Equity Office); Uptogether, TX",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "135",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, TX",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "173",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "The Houston Fund, TX",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": null,
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Shreveport, LA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Teacher's College, Columbia University, LA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "41"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Rooted School Foundation, LA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "470",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Weekly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of New Orleans, LA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "125",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Springboard to Opportunities, MS",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Birmingham, AL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Community Spring, FL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "115",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "GRO Fund, GA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "650",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Atlanta and Urban League of Greater Atlanta, GA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Columbia; Central Carolina Community Foundation, SC",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Eastern Band of Cherokee Indians, NC",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "15,414",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Bi-annual",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "StepUp Durham, City of Durham, NC",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "109",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Institute for Research on Poverty, University of Wisconsin -Madison, NC",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "810",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Moving Nashville Forward (MOVE), TN",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "10"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Osage Nation, OK",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "11,721",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "One time",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, OK",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "304",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Cherokee Nation, OK",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "392,832",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "One time",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Home Grown, CO",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100 cash recipients; 55 consented to be part of study",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, CO",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-weekly",
+    "UniversalBasicIncomePaymentDuration_Months": "15"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, CO",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "95",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "19"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether CO",
+    "UniversalBasicIncomeExperimentStatus": "Public",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "75",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Home Grown, CO",
+    "UniversalBasicIncomeExperimentStatus": "Private",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100 cash recipients; 55 consented to be part of study",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Impact Charitable, CO",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-weekly",
+    "UniversalBasicIncomePaymentDuration_Months": "15"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Stanford Research Institute, CO",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "4800",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "The Bridge Network, CO",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20 in 12 month pilot, 15 in 24 month pilot",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private\r\n",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12 - 24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Denver Basic Income Project, Impact Charitable, City of Denver, CO",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "11 (August 2021 soft launch), 28 (July 2022 2.0) and 820 (full launch by November 2022)",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "One-time and monthly, or monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Boulder, CO",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "25"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Boulder Housing & Human Services Department, CO",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Brown Hope, OR",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "50",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "36"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Multonomah Ideas Lab, OR",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "75",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "6"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, OR",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "70",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Teacher's College, Columbia University, NE",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "42"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Institute for Research on Poverty, University of Wisconsin -Madison, IA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "810",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Project Coordination Team at The Harkin Institute, IA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Heartland Alliance, IL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": null,
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "28"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Cook County Government, Bureau of Economic Development (BED), GiveDirectly, IL",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "3,250",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "LIFT, Inc, IL",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "800+",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Quarterly",
+    "UniversalBasicIncomePaymentDuration_Months": "Up to 24 months"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Chicago, Department of Family and Support Services, GiveDirectly, IL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "5000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Evanston and Northwestern University, IL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "165",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Gary, IL",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Rooted School Foundation, IN",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "470",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Weekly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Louisville Metro Government, KY",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "151",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Yellow Springs Community Foundation, OH",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "90",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Alexandria, VA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Ricmond Office of Community Wealth Building, VA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "Two cohorts totaling 64 individuals",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Arlington Community Foundation",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "if, A Foundation for Radical Possibility",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "75",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "60"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Martha’s Table, Office of the Deputy Mayor for Planning and Economic Development",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "132",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Individuals",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Uptogether, Montgomery Couty Government, MD",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Baltimore, MD",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Institute for Research on Poverty, University of Wisconsin -Madison, NJ",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1357",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Philadelphia Housing Development Corporation (PHDC), PA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "300",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "30"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Newark, NJ",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200 receiving bi-weekly payment, 200 receiving bi-annual payment",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-weekly and semi-annually",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, MA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1482",
+    "UniversalBasicIncomeExperimentTypeOfFunding": null,
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Point Source Youth, NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "30",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Monarch Foundation. NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "Phase 1: 100 Phase 2: 500",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Bi-weekly",
+    "UniversalBasicIncomePaymentDuration_Months": "36"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "LIFT, Inc. NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "800+",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Quarterly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Teacher's College, Columbia University, NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "1000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "40"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Paterson, NJ",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Mount Vernon, NJ",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Individuals",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "4-CT, CT",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "20",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Providence, Amos House, RI",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "15"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Children's Trust of MA, MA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "123",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Camp Harbor View & UpTogether, MA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "50",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Cambridge, MA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "130",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "The National Council, MA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "21",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Chelsea, MA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "2000",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "6"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Health Metrics, MA",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "30",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "36"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "The Local Sounds Collaborative, NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "6",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Human Services Coalition of Tompkins County, NY",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Ulster County, NY",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "100",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Hudson, NY",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "75",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "60"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "UpTogether, MI",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "45",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "TASC Madison, WI",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "155",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Springboard for the Arts, MN",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "25",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "International Institute of Minnesota, MN",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "25",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of St. Paul, MN",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "150",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public/Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "18"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Minneapolis, MN",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "200",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "24"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Mountain Home, MT",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "10",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Stanford Research Institute, WA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "4800",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "City of Tacoma, WA",
+    "UniversalBasicIncomeExperimentStatus": "Concluded",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "110",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Private",
+    "UniversalBasicIncomePaymentFrequency": "Monthly",
+    "UniversalBasicIncomePaymentDuration_Months": "12"
+  },
+  {
+    "country": "United States",
+    "UniversalBasicIncomeExperimentManagingOrganization": "Alaska Dept of Revenue",
+    "UniversalBasicIncomeExperimentStatus": "Active",
+    "UniversalBasicIncomeExperimentNumOfParticipants": "667,047",
+    "UniversalBasicIncomeExperimentTypeOfFunding": "Public",
+    "UniversalBasicIncomePaymentFrequency": "Annual",
+    "UniversalBasicIncomePaymentDuration_Months": null
+  }
+]
